@@ -25,23 +25,23 @@ export default async function Page({ params }: { params: { id: number } }) {
         </div>
         <div className="flex flex-col gap-5">
           <div className="my-2 flex flex-col gap-3">
-            <h2 className="text-4xl bolder">Introduction</h2>
+            <h2 className="text-3xl sm:text-4xl bolder">Introduction</h2>
             <div>{posts[params.id - 1].contents.introduction}</div>
           </div>
           {posts[params.id - 1].contents.sections.map((section, index) => (
             <div key={index} className="my-2 flex flex-col gap-3">
-              <h2 className="text-4xl bolder">{section.title}</h2>
+              <h2 className="text-3xl sm:text-4xl bolder">{section.title}</h2>
               <div>{section.content}</div>
             </div>
           ))}
           <div className="my-2 flex flex-col gap-3">
-            <h2 className="text-4xl bolder">Conclusion</h2>
+            <h2 className="text-3xl sm:text-4xl bolder">Conclusion</h2>
             <div>{posts[params.id - 1].contents.conclusion}</div>
           </div>
         </div>
         {/* Comment Section */}
         <div className="my-10">
-          <h2 className="text-4xl bolder">Comments</h2>
+          <h2 className="text-3xl sm:text-4xl bolder">Comments</h2>
           <CommentForm />
         </div>
       </div>
