@@ -6,7 +6,7 @@
 ![image](https://github.com/tanmayVaish/blog-golb/assets/55585498/d202c19e-8c1f-4d1b-83f8-d4340c2bc660)
 
 ### Mobile:
-![image](https://github.com/tanmayVaish/blog-golb/assets/55585498/6bc679bb-b461-46ec-9b57-908363614909)
+![image](https://github.com/tanmayVaish/blog-golb/assets/55585498/e5659cd9-cb08-4d58-bb85-4466b2ac1814)
 ![image](https://github.com/tanmayVaish/blog-golb/assets/55585498/8acd9aa2-3deb-499f-8c72-4ee026dfa3b6)
 ![image](https://github.com/tanmayVaish/blog-golb/assets/55585498/73bb7c5d-e7d3-4725-b171-2e9caa5b807d)
 ![image](https://github.com/tanmayVaish/blog-golb/assets/55585498/e834dae2-6896-4272-b56a-646a326b9f21)
