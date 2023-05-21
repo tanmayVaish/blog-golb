@@ -1,7 +1,7 @@
 import { postMocks } from '../mocks/blogs';
-import { useEffect } from 'react';
 
 async function getDataFromAPI() {
+  // get All Posts Mock
   const response = Promise.resolve(postMocks);
   return response;
 }

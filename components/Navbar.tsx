@@ -5,10 +5,10 @@ import { Disclosure, Menu, Transition } from '@headlessui/react';
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline';
 
 const navigation = [
-  { name: 'Home', href: '#', current: true },
-  { name: 'Popular', href: '#', current: false },
-  { name: 'Technology', href: '#', current: false },
-  { name: 'Philosophy', href: '#', current: false },
+  { name: 'Home', href: '/', current: true },
+  { name: 'Popular', href: '/', current: false },
+  { name: 'Technology', href: '/', current: false },
+  { name: 'Philosophy', href: '/', current: false },
 ];
 
 function classNames(...classes: string[]) {
