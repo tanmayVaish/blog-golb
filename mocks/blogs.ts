@@ -26,13 +26,12 @@ export const postMocks = [
       name: 'Michael Foster',
       role: 'Co-Founder / CTO',
       href: '#',
-      imageUrl:
-        'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      imageUrl: 'https://picsum.photos/200',
     },
   },
   {
     id: 2,
-    title: 'Boost your conversion rate',
+    title: 'How to use search engine optimization to drive sales',
     href: '/blog/2',
     description:
       'Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.',
@@ -54,8 +53,8 @@ export const postMocks = [
     datetime: '2020-03-16',
     category: { title: 'Marketing', href: '#' },
     author: {
-      name: 'Michael Foster',
-      role: 'Co-Founder / CTO',
+      name: 'Graham Mueller',
+      role: 'Co-Founder / CEO',
       href: '#',
       imageUrl:
         'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
@@ -63,7 +62,7 @@ export const postMocks = [
   },
   {
     id: 3,
-    title: 'Boost your conversion rate',
+    title: 'Improve your customer experience',
     href: '/blog/3',
     description:
       'Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.',
@@ -89,12 +88,12 @@ export const postMocks = [
       role: 'Co-Founder / CTO',
       href: '#',
       imageUrl:
-        'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+        'https://picsum.photos/200',
     },
   },
   {
     id: 4,
-    title: 'Boost your conversion rate',
+    title: 'Get more traffic and improve your conversion rate',
     href: '/blog/4',
     description:
       'Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.',
@@ -116,8 +115,8 @@ export const postMocks = [
     datetime: '2020-03-16',
     category: { title: 'Marketing', href: '#' },
     author: {
-      name: 'Michael Foster',
-      role: 'Co-Founder / CTO',
+      name: 'Richard Hendricks',
+      role: 'Founder @Pied Piper',
       href: '#',
       imageUrl:
         'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
@@ -125,7 +124,7 @@ export const postMocks = [
   },
   {
     id: 5,
-    title: 'Boost your conversion rate',
+    title: 'Writing Effective Landing Page Copy',
     href: '/blog/5',
     description:
       'Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.',
@@ -147,16 +146,16 @@ export const postMocks = [
     datetime: '2020-03-16',
     category: { title: 'Marketing', href: '#' },
     author: {
-      name: 'Michael Foster',
-      role: 'Co-Founder / CTO',
+      name: 'Sheldon Cooper',
+      role: 'Theoretical Physicist',
       href: '#',
       imageUrl:
-        'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+        'https://picsum.photos/200',
     },
   },
   {
     id: 6,
-    title: 'Boost your conversion rate',
+    title: 'Writing Effective Landing Page Copy',
     href: '/blog/6',
     description:
       'Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.',
@@ -176,9 +175,9 @@ export const postMocks = [
         },
     date: 'Mar 16, 2020',
     datetime: '2020-03-16',
-    category: { title: 'Marketing', href: '#' },
+    category: { title: 'Tech', href: '#' },
     author: {
-      name: 'Michael Foster',
+      name: 'Tanmay Vaish',
       role: 'Co-Founder / CTO',
       href: '#',
       imageUrl:
